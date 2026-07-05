@@ -1,2 +1,2 @@
 # crispy-carnival
-This is my python programs I did in college
+These are my python programs I did in college
